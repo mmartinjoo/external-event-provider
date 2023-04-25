@@ -1,56 +1,66 @@
 {
-  "events":
-  [
-    {
-      "id": 156,
-      "title": "Gazdaságpolitika kerekasztal",
-      "category": "Egyéb",
-      "content": "Gazdaságpolitika kerekasztal az MCC-ben meghívott szakértőkkel",
-      "graphicSquare": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/YellowLabradorLooking.jpg/640px-YellowLabradorLooking.jpg",
-      "graphicMobile": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/YellowLabradorLooking.jpg/640px-YellowLabradorLooking.jpg",
-      "graphicRectangle": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/YellowLabradorLooking.jpg/640px-YellowLabradorLooking.jpg",
-      "startDate": "2023-04-12T07:00:00.000Z",
-      "endDate": "2023-04-12T08:59:59.000Z",
-      "internalLocations": [
-        {
-          "id": 323,
-          "trainingCenter": {
-            "id": 2,
-            "label": "Budapesti képzési központ"
-          },
-          "building": {
-            "id": 6,
-            "label": "Főépület"
-          },
-          "floor": {
-            "id": 6,
-            "label": "3. emelet"
-          },
-          "room": {
-            "id": 23,
-            "label": "Szilágyi Erzsébet"
-          },
-          "buildingAddress": "1113 Budapest, Tas Vezér utca 3",
-          "coordinates": {
-            "lat": 47.51272685777365,
-            "lng": 19.070875249428667
-          }
-        }
-      ],
-      "externalLocations": [
-        {
-          "id": 253,
-          "country": "Magyarország",
-          "location": "Papp László Budapest Sportaréna, Budapest 1143, Stefánia út 2.",
-          "coordinates": {
-            "lat": 47.502239119834314,
-            "lng": 19.105224499963978
-          }
-        }
-      ],
-      "publishedAt": "2023-04-10T08:59:59.000Z",
-      "updatedAt": "2023-04-10T08:59:59.000Z",
-      "deletedAt": "2023-04-10T08:59:59.000Z"
-    }
-  ]
+  "events": [
+  {
+    "id": 156,
+    "title": "Gazdaságpolitika kerekasztal",
+    "category": "Egyéb",
+    "contents": [
+      {
+        "type": "default",
+        "content": "Gazdaságpolitika kerekasztal az MCC-ben meghívott szakértőkkel"
+      }
+    ],
+    "graphics": [
+      {
+        "type": "square",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/YellowLabradorLooking.jpg/640px-YellowLabradorLooking.jpg"
+      }
+    ],
+    "startDate": "2023-04-12T07:00:00.000Z",
+    "endDate": "2023-04-12T08:59:59.000Z",
+    "internalLocations": [
+      {
+        "id": 323,
+        "trainingCenter": {
+          "id": 2,
+          "label": "Budapesti képzési központ"
+        },
+        "building": {
+          "id": 6,
+          "label": "Főépület"
+        },
+        "floor": {
+          "id": 6,
+          "label": "3. emelet"
+        },
+        "room": {
+          "id": 23,
+          "label": "Szilágyi Erzsébet"
+        },
+        "buildingAddress": "1113 Budapest, Tas Vezér utca 3",
+        "coordinates": {
+          "lat": 47.51272685777365,
+          "lng": 19.070875249428667
+        },
+        "timezone": "+02:00"
+      }
+    ],
+    "externalLocations": [
+      {
+        "id": 253,
+        "country": "Magyarország",
+        "location": "Papp László Budapest Sportaréna, Budapest 1143, Stefánia út 2.",
+        "coordinates": {
+          "lat": 47.502239119834314,
+          "lng": 19.105224499963978
+        },
+        "timezone": "+02:00"
+      }
+    ],
+    "status": "published",
+    "publishedAt": "2023-04-10T08:59:59.000Z",
+    "updatedAt": "2023-04-10T08:59:59.000Z",
+    "deletedAt": "2023-04-10T08:59:59.000Z"
+  }
+]
 }
