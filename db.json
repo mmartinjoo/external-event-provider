@@ -66,7 +66,7 @@
     "status": "published",
     "publishedAt": "2023-04-10T08:59:59.000Z",
     "updatedAt": "2023-04-10T08:59:59.000Z",
-    "deletedAt": "2023-04-10T08:59:59.000Z",
+    "deletedAt": null,
     "locationTimezone": "Europe/Budapest"
   }
 ]
